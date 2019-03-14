@@ -1,1 +1,6 @@
-# bot_stuff
+This simple Telegram bot works locally and it's main purpose is to send reminders of your friends' birthdays 
+
+To be more specific, bot takes friends data from user's vk.com account (no need for authentification)
+It can also show friendslist, set preffered notification time etc
+
+NOTE: vk.com might have updated API methods or access conditions, no gurrantee that this bot still works.
